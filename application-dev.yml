@@ -1,4 +1,2 @@
-serv11er:
-  port: 9527
 config:
   info: 77777
