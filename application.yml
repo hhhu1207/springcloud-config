@@ -31,3 +31,5 @@ eureka:
     fetch-registry: true
     service-url:
       defaultZone: http://eureka7001.com:7001/eureka
+config:
+  inf: 66666
